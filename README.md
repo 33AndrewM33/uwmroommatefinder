@@ -1,5 +1,5 @@
 # uwmroommatefinder
-Demo Video -> [https://youtu.be/FJNLOinHy20](url)
+Demo Video -> [https://youtu.be/FJNLOinHy20]([url](https://youtu.be/FJNLOinHy20))
 
 *Note: Make sure to have Python 3.14 installed as well as all required packages in requirements.txt*  
   
